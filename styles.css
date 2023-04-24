@@ -33,7 +33,7 @@ hr {
     position: absolute;
     margin-top: 0px;
     display: block;
-    right: 680px;
+    right: 900px;
     top: 50px;
     font-family: Montserrat;
   }
@@ -48,7 +48,7 @@ hr {
   }
 
   .button {
-    position: absolute; top: 32px; right: 5%; 
+    position: absolute; top: 32px; right: 300px; 
 	display: flex;
 	height: 50px;
 	padding: 0;
@@ -120,7 +120,7 @@ width: 140px;
 }
 
 .button3 {
-  position: absolute; bottom: 450px; right: 940px; 
+  position: absolute; bottom: 700px; right: 1150px; 
 display: flex;
 height: 28px;
 padding: 0;
